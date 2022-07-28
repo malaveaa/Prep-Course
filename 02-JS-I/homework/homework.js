@@ -30,7 +30,6 @@ function devolverString(str) {
   // Tu código:
   var string = str ;
   return string;
-  
 }
 
 function suma(x, y) {
@@ -39,7 +38,6 @@ function suma(x, y) {
   // Tu código:
   var sumar = x + y ;
   return sumar ;
-  
 }
 
 function resta(x, y) {
@@ -47,7 +45,6 @@ function resta(x, y) {
   // Tu código:
   var restar = x - y;
   return restar;
-  
 }
 
 function multiplica(x, y) {
@@ -62,13 +59,13 @@ function divide(x, y) {
   // Tu código:
   var dividir = x / y ;
   return dividir;
-  
 }
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
+ 
 }
 
 function tienenMismaLongitud(str1, str2) {
@@ -102,7 +99,7 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+
 }
 
 function esImpar(num) {
